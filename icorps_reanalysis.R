@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 #
-# SCRIPT: I-Corps Thematic Reanalysis (Final Version - with GLM fix)
+# SCRIPT: I-Corps Thematic Reanalysis
 # PURPOSE: This script performs a full statistical analysis and generates all
 #          publication-ready figures for the "Double Pivot" manuscript.
 #

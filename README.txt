@@ -5,7 +5,7 @@ Replication Files for:
 
 Authors: Amil Khanzada, Takuji Takemoto
 Contact: Amil Khanzada (kad23802@u-fukui.ac.jp)
-Date: September 8, 2025
+Date: September 14th, 2025
 
 This archive contains the necessary data and code to reproduce the quantitative analysis and figures presented in the manuscript.
 
